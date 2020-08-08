@@ -9,35 +9,35 @@
     "id": 1,
     "icon": "fa fa-play-circle",
     "slug": "introduccion",
-    "title": "1. Introduccion",
-    "breadcrumb": ["Inicio","tema-2"],
-    "path": "pages/tema-1.html"     
+    "title": "Introduccion",
+    "breadcrumb": ["Inicio","tema-1"],
+    "path": "pages/introduccion.html"     
   },
   { 
     "id": 2,
     "icon": "fa fa-file-text",
     "slug": "actualizacion_sgsst",
-    "title": "2. Actualización de los sistemas de gestión en seguridad y salud en el trabajo (SG-SST)",
-    "breadcrumb": ["Inicio","tema-2"],
-    "path": "pages/tema-2.html",    
+    "title": "1. Actualización de los sistemas de gestión en seguridad y salud en el trabajo (SG-SST)",
+    "breadcrumb": ["Inicio","tema-1"],
+    "path": "pages/tema-1.html",    
     "submenu": [
       {
         "icon": "fa fa-file-text",
         "slug": "actualizacion_sgsst",
-        "title": "2.1 Evolución de la pandemia en el mundo",
-        "anchor": "tema2_1"
+        "title": "1.1 Evolución de la pandemia en el mundo",
+        "anchor": "tema1_1"
       },   
       {
         "icon": "fa fa-file-text",
         "slug": "actualizacion_sgsst",
-        "title": "2.2 Resoluciones por sector económico",
-        "anchor": "tema2_2"
+        "title": "1.2 Resoluciones por sector económico",
+        "anchor": "tema1_2"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "actualizacion_sgsst",
-        "title": "2.3 Gestión del cambio del Sistema de Gestión en Seguridad y Salud en el Trabajo",
-        "anchor": "tema2_3"
+        "title": "1.3 Gestión del cambio del Sistema de Gestión en Seguridad y Salud en el Trabajo",
+        "anchor": "tema1_3"
       }      
     ]   
   },
@@ -45,41 +45,41 @@
     "id": 3,
     "icon": "fa fa-file-text",
     "slug": "vigilancia",
-    "title": "3. Vigilancia epidemiológica de trabajadores",
-    "breadcrumb": ["Inicio","tema-3"],
-    "path": "pages/tema-3.html"    
+    "title": "2. Vigilancia epidemiológica de trabajadores",
+    "breadcrumb": ["Inicio","tema-2"],
+    "path": "pages/tema-2.html"    
   },
   {
     "id": 4,
     "icon": "fa fa-file-text",
     "slug": "medidas_proteccion",
-    "title": "4. Medidas de protección personal",
+    "title": "3. Medidas de protección personal",
     "breadcrumb": ["Inicio","tema-4"],
-    "path": "pages/tema-4.html",
+    "path": "pages/tema-3.html",
     "submenu": [
       {
         "icon": "fa fa-file-text",
         "slug": "medidas_proteccion",
-        "title": "4.1 Lavado de manos",
-        "anchor": "tema4_1"
+        "title": "3.1 Lavado de manos",
+        "anchor": "tema3_1"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "medidas_proteccion",
-        "title": "4.2 Distanciamiento físico",
-        "anchor": "tema4_2"
+        "title": "3.2 Distanciamiento físico",
+        "anchor": "tema3_2"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "medidas_proteccion",
-        "title": "4.3 Elementos de protección personal",
-        "anchor": "tema4_3"
+        "title": "3.3 Elementos de protección personal",
+        "anchor": "tema3_3"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "medidas_proteccion",
-        "title": "4.4 Uso de tapabocas",
-        "anchor": "tema4_4"
+        "title": "3.4 Uso de tapabocas",
+        "anchor": "tema3_4"
       }
     ]
   },
@@ -87,27 +87,27 @@
     "id": 5,
     "icon": "fa fa-file-text",
     "slug": "servicios_publicos",
-    "title": "5. Servicios públicos e infraestructura",
-    "breadcrumb": ["Inicio","tema-5"],
-    "path": "pages/tema-5.html",
+    "title": "4. Servicios públicos e infraestructura",
+    "breadcrumb": ["Inicio","tema-4"],
+    "path": "pages/tema-4.html",
     "submenu": [
       {
         "icon": "fa fa-file-text",
         "slug": "servicios_publicos",
-        "title": "5.1 Limpieza y desinfección",
-        "anchor": "tema5_1"
+        "title": "4.1 Limpieza y desinfección",
+        "anchor": "tema4_1"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "servicios_publicos",
-        "title": "5.2 Manejo de residuos",
-        "anchor": "tema5_2"
+        "title": "4.2 Manejo de residuos",
+        "anchor": "tema4_2"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "servicios_publicos",
-        "title": "5.3 Medidas locativas",
-        "anchor": "tema5_3"
+        "title": "4.3 Medidas locativas",
+        "anchor": "tema4_3"
       }
     ]
   },
@@ -115,27 +115,27 @@
     "id": 6,
     "icon": "fa fa-file-text",
     "slug": "jornadas_descanso",
-    "title": "6. Jornadas de descanso y horas de alimentación",
-    "breadcrumb": ["Inicio","tema-6"],
-    "path": "pages/tema-6.html",
+    "title": "5. Jornadas de descanso y horas de alimentación",
+    "breadcrumb": ["Inicio","tema-5"],
+    "path": "pages/tema-5.html",
     "submenu": [
       {
         "icon": "fa fa-file-text",
         "slug": "jornadas_descanso",
-        "title": "6.1 Planeación de turnos",
-        "anchor": "tema6_1"
+        "title": "5.1 Planeación de turnos",
+        "anchor": "tema5_1"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "jornadas_descanso",
-        "title": "6.2 Jornadas de descanso y horas de alimentación",
-        "anchor": "tema6_2"
+        "title": "5.2 Jornadas de descanso y horas de alimentación",
+        "anchor": "tema5_2"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "jornadas_descanso",
-        "title": "6.3 Desplazamiento desde y hacia el lugar del trabajo",
-        "anchor": "tema6_3"
+        "title": "5.3 Desplazamiento desde y hacia el lugar del trabajo",
+        "anchor": "tema5_3"
       }
     ]
   },
@@ -143,17 +143,17 @@
     "id": 7,
     "icon": "fa fa-file-text",
     "slug": "protocolo_ingreso",
-    "title": "7. Protocolos de ingreso y permanencia de visitantes y contratistas",
-    "breadcrumb": ["Inicio","tema-7"],
-    "path": "pages/tema-7.html"    
+    "title": "6. Protocolos de ingreso y permanencia de visitantes y contratistas",
+    "breadcrumb": ["Inicio","tema-6"],
+    "path": "pages/tema-6.html"    
   },
   {
     "id": 8,
     "icon": "fa fa-file-text",
     "slug": "plan_comunicaciones",
-    "title": "8. Plan de Comunicaciones",
+    "title": "7. Plan de Comunicaciones",
     "breadcrumb": [
-      "Inicio","tema-8"],
-    "path": "pages/tema-8.html"
+      "Inicio","tema-7"],
+    "path": "pages/tema-7.html"
   }  
 ]
