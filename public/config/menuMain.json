@@ -1,0 +1,159 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "introduccion",
+    "title": "1. Introduccion",
+    "breadcrumb": ["Inicio","tema-2"],
+    "path": "pages/tema-1.html"     
+  },
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "actualizacion_sgsst",
+    "title": "2. Actualización de los sistemas de gestión en seguridad y salud en el trabajo (SG-SST)",
+    "breadcrumb": ["Inicio","tema-2"],
+    "path": "pages/tema-2.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "actualizacion_sgsst",
+        "title": "2.1 Evolución de la pandemia en el mundo",
+        "anchor": "tema2_1"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "actualizacion_sgsst",
+        "title": "2.2 Resoluciones por sector económico",
+        "anchor": "tema2_2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "actualizacion_sgsst",
+        "title": "2.3 Gestión del cambio del Sistema de Gestión en Seguridad y Salud en el Trabajo",
+        "anchor": "tema2_3"
+      }      
+    ]   
+  },
+  {
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "vigilancia",
+    "title": "3. Vigilancia epidemiológica de trabajadores",
+    "breadcrumb": ["Inicio","tema-3"],
+    "path": "pages/tema-3.html"    
+  },
+  {
+    "id": 4,
+    "icon": "fa fa-file-text",
+    "slug": "medidas_proteccion",
+    "title": "4. Medidas de protección personal",
+    "breadcrumb": ["Inicio","tema-4"],
+    "path": "pages/tema-4.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "medidas_proteccion",
+        "title": "4.1 Lavado de manos",
+        "anchor": "tema4_1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "medidas_proteccion",
+        "title": "4.2 Distanciamiento físico",
+        "anchor": "tema4_2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "medidas_proteccion",
+        "title": "4.3 Elementos de protección personal",
+        "anchor": "tema4_3"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "medidas_proteccion",
+        "title": "4.4 Uso de tapabocas",
+        "anchor": "tema4_4"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "icon": "fa fa-file-text",
+    "slug": "servicios_publicos",
+    "title": "5. Servicios públicos e infraestructura",
+    "breadcrumb": ["Inicio","tema-5"],
+    "path": "pages/tema-5.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "servicios_publicos",
+        "title": "5.1 Limpieza y desinfección",
+        "anchor": "tema5_1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "servicios_publicos",
+        "title": "5.2 Manejo de residuos",
+        "anchor": "tema5_2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "servicios_publicos",
+        "title": "5.3 Medidas locativas",
+        "anchor": "tema5_3"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "icon": "fa fa-file-text",
+    "slug": "jornadas_descanso",
+    "title": "6. Jornadas de descanso y horas de alimentación",
+    "breadcrumb": ["Inicio","tema-6"],
+    "path": "pages/tema-6.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "jornadas_descanso",
+        "title": "6.1 Planeación de turnos",
+        "anchor": "tema6_1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "jornadas_descanso",
+        "title": "6.2 Jornadas de descanso y horas de alimentación",
+        "anchor": "tema6_2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "jornadas_descanso",
+        "title": "6.3 Desplazamiento desde y hacia el lugar del trabajo",
+        "anchor": "tema6_3"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "icon": "fa fa-file-text",
+    "slug": "protocolo_ingreso",
+    "title": "7. Protocolos de ingreso y permanencia de visitantes y contratistas",
+    "breadcrumb": ["Inicio","tema-7"],
+    "path": "pages/tema-7.html"    
+  },
+  {
+    "id": 8,
+    "icon": "fa fa-file-text",
+    "slug": "plan_comunicaciones",
+    "title": "8. Plan de Comunicaciones",
+    "breadcrumb": [
+      "Inicio","tema-8"],
+    "path": "pages/tema-8.html"
+  }  
+]

@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="286" height="282.185" viewBox="0 0 286 282.185">
+  <g id="Grupo_10888" data-name="Grupo 10888" transform="translate(-986 -2205.815)">
+    <path id="Trazado_21089" data-name="Trazado 21089" d="M265.375,233a2.688,2.688,0,0,1,.652,5.3l-12.778,3.2a36.3,36.3,0,0,1-8.8,1.083,18.894,18.894,0,0,0-9.518,2.574l-7.089,4.139A8.755,8.755,0,0,1,219,240.539,7.54,7.54,0,0,1,226.539,233Z" transform="translate(890.255 2116.188)" fill="#f56b6b"/>
+    <path id="Trazado_21090" data-name="Trazado 21090" d="M152.5,33.894c-2.245-3.335-4.935-7.331-8.154-12.2l-1-1.508-1,1.508c-3.25,4.913-5.969,8.938-8.238,12.3C125.132,47.274,123,50.43,123,57.059a20.343,20.343,0,0,0,40.686,0C163.686,50.52,161.977,47.981,152.5,33.894Z" transform="translate(986.255 2185.627)" fill="#f56b6b"/>
+    <circle id="Elipse_775" data-name="Elipse 775" cx="6" cy="6" r="6" transform="translate(1009 2206)" fill="#f56b6b"/>
+    <path id="Trazado_21091" data-name="Trazado 21091" d="M36.787,54.54H34.393A2.393,2.393,0,0,1,32,52.146V40.18A7.179,7.179,0,0,1,39.18,33H53.54a7.179,7.179,0,0,1,7.18,7.18v9.573a4.787,4.787,0,0,1-4.787,4.787" transform="translate(968.36 2188.146)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21092" data-name="Trazado 21092" d="M36,39V55.753L38.393,73.7" transform="translate(969.146 2189.326)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21093" data-name="Trazado 21093" d="M52.393,39V55.753L50,73.7" transform="translate(971.9 2189.326)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_34" data-name="Línea 34" y2="19" transform="translate(1015 2244)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_35" data-name="Línea 35" y2="11" transform="translate(1130 2230)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_36" data-name="Línea 36" x1="12" transform="translate(1124 2236)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_37" data-name="Línea 37" x1="12" transform="translate(1124 2249)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21099" data-name="Trazado 21099" d="M356.994,51.314,352.787,44l-4.207,7.314A4.72,4.72,0,0,0,348,53.573a4.787,4.787,0,0,0,9.573,0A4.72,4.72,0,0,0,356.994,51.314Z" transform="translate(914.427 2190.31)" fill="#f56b6b"/>
+    <path id="Trazado_21101" data-name="Trazado 21101" d="M308,36.18h4.787l3.671-3.147A16.751,16.751,0,0,1,327.361,29H343.9a3.59,3.59,0,1,1,0,7.18H330.736" transform="translate(906.561 2187.36)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21102" data-name="Trazado 21102" d="M308,58.933h5.983a16.343,16.343,0,0,0,11.556,4.787h11.809a5.983,5.983,0,0,0,5.946-5.323l1.8-16.217h15.556a3.59,3.59,0,1,0,0-7.18H330.736" transform="translate(906.561 2188.54)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21104" data-name="Trazado 21104" d="M60.573,145.753l7.976-7.5a5.411,5.411,0,1,0-7.976-7.3,5.411,5.411,0,1,0-7.976,7.3Z" transform="translate(972.096 2207.025)" fill="#f56b6b"/>
+    <path id="Trazado_21105" data-name="Trazado 21105" d="M46.13,119h1.2a4.787,4.787,0,0,1,4.787,4.787v15.556a15.556,15.556,0,1,1-31.113,0V123.787A4.787,4.787,0,0,1,25.787,119h1.2" transform="translate(966.197 2205.058)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <ellipse id="Elipse_776" data-name="Elipse 776" cx="2.5" cy="2" rx="2.5" ry="2" transform="translate(993 2322)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <circle id="Elipse_777" data-name="Elipse 777" cx="2" cy="2" r="2" transform="translate(1008 2322)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21106" data-name="Trazado 21106" d="M21,133h4.787v3.59a10.77,10.77,0,0,0,21.54,0V133h4.787" transform="translate(966.197 2207.812)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21107" data-name="Trazado 21107" d="M34,149v9.573a7.179,7.179,0,0,0,7.18,7.18H56.736a7.179,7.179,0,0,0,7.18-7.18V149" transform="translate(968.753 2210.958)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21108" data-name="Trazado 21108" d="M54.955,138.893a7.18,7.18,0,1,0,10.449,0" transform="translate(972.49 2208.97)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21117" data-name="Trazado 21117" d="M40,51.651a27.639,27.639,0,0,0,9.573,0" transform="translate(969.933 2191.814)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21118" data-name="Trazado 21118" d="M47,43.116A32.8,32.8,0,0,0,52.983,42" transform="translate(971.31 2189.916)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21119" data-name="Trazado 21119" d="M36,42a32.8,32.8,0,0,0,5.983,1.116" transform="translate(969.146 2189.916)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_69" data-name="Línea 69" y1="2" transform="translate(1015 2237)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_70" data-name="Línea 70" x2="57" transform="translate(986 2262)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21122" data-name="Trazado 21122" d="M23.383,212v19.754a4.809,4.809,0,0,1-.142,1.161l-1.924,7.7a8.91,8.91,0,0,0,3.7,9.576,7.764,7.764,0,0,0,4.3,1.3h1.241a23.905,23.905,0,0,0,6.574-.921,25.154,25.154,0,0,1,10.46-.714l6.985,1a63.38,63.38,0,0,0,8.97.638h7.7a4.787,4.787,0,0,0,4.787-4.787v-1.2a41.55,41.55,0,0,1-20.184-5.231L47.8,235.8a10.735,10.735,0,0,1-5.2-6.78,42.339,42.339,0,0,1-1.264-10.265V212" transform="translate(966.207 2223.347)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_74" data-name="Línea 74" x1="10.387" y2="10.387" transform="translate(987.58 2458.083)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_75" data-name="Línea 75" x1="15.604" y2="15.604" transform="translate(989.937 2456.887)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_76" data-name="Línea 76" x1="17.435" y2="17.435" transform="translate(994.113 2457.27)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_77" data-name="Línea 77" x1="14.635" y2="14.635" transform="translate(1000.683 2459.879)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_78" data-name="Línea 78" x1="10.854" y2="10.854" transform="translate(1008.569 2462.152)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_79" data-name="Línea 79" x1="8.903" y2="8.903" transform="translate(1014.648 2464.414)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_80" data-name="Línea 80" x1="7.778" y2="7.778" transform="translate(1020.224 2466.34)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_81" data-name="Línea 81" x1="6.929" y2="6.929" transform="translate(1026.004 2467.789)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_82" data-name="Línea 82" x1="6.163" y2="6.163" transform="translate(1032.274 2468.674)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_83" data-name="Línea 83" y1="8" transform="translate(1015 2480)" fill="none" stroke="#f56b6b" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_84" data-name="Línea 84" x1="3.206" y1="7.739" transform="translate(1020.703 2479.623)" fill="none" stroke="#f56b6b" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_85" data-name="Línea 85" x1="5.923" y1="5.923" transform="translate(1027.883 2479.623)" fill="none" stroke="#f56b6b" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_86" data-name="Línea 86" y1="7.739" x2="3.206" transform="translate(1005.531 2479.623)" fill="none" stroke="#f56b6b" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_87" data-name="Línea 87" y1="5.923" x2="5.923" transform="translate(995.633 2479.623)" fill="none" stroke="#f56b6b" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21123" data-name="Trazado 21123" d="M260.883,212v8.377a15.574,15.574,0,0,1-15.556,15.556H227.739a8.739,8.739,0,1,0,1.8,17.289l2.1-.44a8.375,8.375,0,0,1,10.1,8.2v8.46" transform="translate(890.255 2112.058)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21124" data-name="Trazado 21124" d="M241,229.77A10.781,10.781,0,0,0,251.77,219" transform="translate(894.582 2113.435)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21125" data-name="Trazado 21125" d="M235.736,269.439v-8.46a1.2,1.2,0,0,0-1.444-1.172l-2.1.44a15.918,15.918,0,1,1-3.278-31.495h2.031a8.387,8.387,0,0,0,8.377-8.377V212" transform="translate(889.075 2112.058)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_92" data-name="Línea 92" y1="5" transform="translate(1146 2324)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21126" data-name="Trazado 21126" d="M343.377,233h-1.2a7.179,7.179,0,0,0-7.18,7.18v15.556" transform="translate(799.385 2227.477)" fill="none" stroke="#5d5d5d" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21127" data-name="Trazado 21127" d="M323,233h2.393a7.179,7.179,0,0,1,7.18,7.18v15.556" transform="translate(797.025 2227.477)" fill="none" stroke="#5d5d5d" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21128" data-name="Trazado 21128" d="M341.154,231.445a7.18,7.18,0,0,1,0,8.616l-.718.957a7.18,7.18,0,0,0,5.744,11.488,11.966,11.966,0,0,0,11.967-11.967v-9.573A11.966,11.966,0,0,0,346.18,219a7.18,7.18,0,0,0-5.744,11.488Z" transform="translate(800.172 2224.724)" fill="none" stroke="#5d5d5d" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21129" data-name="Trazado 21129" d="M352.18,237a7.187,7.187,0,0,1-7.18,7.18" transform="translate(801.352 2228.263)" fill="none" stroke="#5d5d5d" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21130" data-name="Trazado 21130" d="M327.146,236.343a6.017,6.017,0,0,1,1.2-3.59,12.047,12.047,0,0,0,2.393-7.18A9.584,9.584,0,0,0,321.163,216,13.179,13.179,0,0,0,308,229.163v14.36a13.179,13.179,0,0,0,13.163,13.163,9.584,9.584,0,0,0,9.573-9.573,12.053,12.053,0,0,0-2.393-7.181A6.011,6.011,0,0,1,327.146,236.343Z" transform="translate(794.075 2224.134)" fill="#f56b6b"/>
+    <path id="Trazado_21131" data-name="Trazado 21131" d="M312,228.377A8.387,8.387,0,0,1,320.377,220" transform="translate(794.862 2224.92)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_21132" data-name="Trazado 21132" d="M228.983,236h-2.034A3.953,3.953,0,0,0,223,239.949v2.034" transform="translate(891.042 2116.778)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_93" data-name="Línea 93" x2="9" transform="translate(1122 2353)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_104" data-name="Línea 104" y2="8" transform="translate(1107 2456)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_105" data-name="Línea 105" y2="3" transform="translate(1107 2466)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_106" data-name="Línea 106" y1="4" transform="translate(1154 2459)" fill="none" stroke="#5d5d5d" stroke-miterlimit="10" stroke-width="2"/>
+    <g id="Grupo_10853" data-name="Grupo 10853" transform="translate(1199.004 2316.879)">
+      <g id="Grupo_10851" data-name="Grupo 10851" transform="translate(37.797 3.094)">
+        <rect id="Rectángulo_2363" data-name="Rectángulo 2363" width="15.231" height="4.786" transform="translate(0 10.77) rotate(-45)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+      <g id="Grupo_10852" data-name="Grupo 10852" transform="translate(10.274 36.601)">
+        <rect id="Rectángulo_2364" data-name="Rectángulo 2364" width="6.769" height="4.786" transform="translate(0 4.787) rotate(-45)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+      <line id="Línea_107" data-name="Línea 107" y1="12" x2="12" transform="translate(-0.004 43.121)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_108" data-name="Línea 108" x2="10" y2="9" transform="translate(44.996 0.121)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_2365" data-name="Rectángulo 2365" width="34.547" height="14.359" transform="translate(10.83 34.062) rotate(-45)" fill="#f56b6b"/>
+      <line id="Línea_109" data-name="Línea 109" x1="4" y1="3" transform="translate(19.996 35.121)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_110" data-name="Línea 110" x1="4" y1="4" transform="translate(23.996 31.121)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_111" data-name="Línea 111" x1="3" y1="4" transform="translate(27.996 27.121)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_112" data-name="Línea 112" x1="4" y1="3" transform="translate(30.996 24.121)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g id="Grupo_10854" data-name="Grupo 10854" transform="translate(1206.184 2430.561)">
+      <path id="Trazado_21133" data-name="Trazado 21133" d="M346.7,169.1H312V132" transform="translate(-307.213 -112.854)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_113" data-name="Línea 113" y2="20" transform="translate(37.816 19.439)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_114" data-name="Línea 114" x1="33" transform="translate(4.816 29.439)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_115" data-name="Línea 115" x1="25.419" transform="translate(4.787 46.669)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_116" data-name="Línea 116" x2="14" transform="translate(14.816 38.439)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Elipse_778" data-name="Elipse 778" cx="8.5" cy="8.5" r="8.5" transform="translate(30.816 39.439)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_117" data-name="Línea 117" x1="9" transform="translate(46.816 44.439)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_21134" data-name="Trazado 21134" d="M346.156,164.458a5.971,5.971,0,0,0,10.811-3.509V148.983a5.983,5.983,0,1,0-11.967,0v2.7" transform="translate(-300.724 -110.69)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_118" data-name="Línea 118" y1="11.861" x2="11.848" transform="translate(33.573 41.936)" fill="none" stroke="#5a5a5a" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Rectángulo_2366" data-name="Rectángulo 2366" d="M4,0H39a4,4,0,0,1,4,4V20a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(-0.184 0.439)" fill="#f56b6b"/>
+      <path id="Trazado_21135" data-name="Trazado 21135" d="M311,132.77v0Z" transform="translate(-307.41 -114.82)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_21136" data-name="Trazado 21136" d="M316,132.77v0Z" transform="translate(-306.427 -114.82)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_21137" data-name="Trazado 21137" d="M321,132.77v0Z" transform="translate(-305.444 -114.82)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_21138" data-name="Trazado 21138" d="M326,132.77v0Z" transform="translate(-304.46 -114.82)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_21139" data-name="Trazado 21139" d="M331,132.77v0Z" transform="translate(-303.477 -114.82)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_21140" data-name="Trazado 21140" d="M336,132.77v0Z" transform="translate(-302.494 -114.82)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_21141" data-name="Trazado 21141" d="M341,132.77v0Z" transform="translate(-301.51 -114.82)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
