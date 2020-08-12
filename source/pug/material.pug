@@ -37,8 +37,13 @@ html(lang="es")
 
                                 ul.list-group.list-group-flush.list.my-n3.nav-temas
                                     +navTemaItem('play', 'Introducción', '#introduccion')
-                                    +navTemaItem('1', 'Normativa vigente proceso ECCL', '#tema-1')
-                                    +navTemaItem('question', 'Actividad didáctica', '#evaluacion')
+                                    +navTemaItem('1', 'Actualización de los sistemas de gestión en seguridad y salud en el trabajo (SG-SST)', '#tema-1')
+                                    +navTemaItem('2', 'Vigilancia epidemiológica de trabajadores', '#tema-2')
+                                    +navTemaItem('3', 'Medidas de protección personal', '#tema-3')
+                                    +navTemaItem('4', 'Servicios públicos e infraestructura', '#tema-4')
+                                    +navTemaItem('5', 'Jornadas de descanso y horas de alimentación', '#tema-5')
+                                    +navTemaItem('6', 'Protocolos de ingreso y permanencia de visitantes y contratistas', '#tema-6')
+                                    +navTemaItem('7', 'Plan de Comunicaciones', '#tema-7')
                                     +navTemaItem('glosary', 'Glosario', '#glosario')
                                     +navTemaItem('folder', 'Material complementario', '#anexos')
                                     +navTemaItem('references', 'Referencias bibliográficas', '#referencias')
@@ -48,9 +53,19 @@ html(lang="es")
             #introduccion
                 include pages/introduccion.pug
             #tema-1
-                include pages/1-tema.pug
-            #evaluacion
-                include pages/actividad-1.pug
+                include pages/tema-1.pug
+            #tema-2
+                include pages/tema-2.pug
+            #tema-3
+                include pages/tema-3.pug
+            #tema-4
+                include pages/tema-4.pug
+            #tema-5
+                include pages/tema-5.pug
+            #tema-6
+                include pages/tema-6.pug
+            #tema-7
+                include pages/tema-7.pug
             #glosario
                 include pages/glosario.pug
             #anexos
