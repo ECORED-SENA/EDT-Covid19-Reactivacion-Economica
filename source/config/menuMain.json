@@ -17,7 +17,7 @@
     "id": 2,
     "icon": "fa fa-file-text",
     "slug": "actualizacion_sgsst",
-    "title": "1. Actualización de los sistemas de gestión en seguridad y salud en el trabajo (SG-SST)",
+    "title": "1. Actualización del Sistemas de Gestión en Seguridad y Salud en el Trabajo (SG-SST)",
     "breadcrumb": ["Inicio","tema-1"],
     "path": "pages/tema-1.html",    
     "submenu": [
@@ -36,7 +36,7 @@
       {
         "icon": "fa fa-file-text",
         "slug": "actualizacion_sgsst",
-        "title": "1.3 Gestión del cambio del Sistema de Gestión en Seguridad y Salud en el Trabajo",
+        "title": "1.3 Sistema de Gestión en Seguridad y Salud en el Trabajo",
         "anchor": "tema1_3"
       }      
     ]   
@@ -151,7 +151,7 @@
     "id": 8,
     "icon": "fa fa-file-text",
     "slug": "plan_comunicaciones",
-    "title": "7. Plan de Comunicaciones",
+    "title": "7. Plan de comunicaciones",
     "breadcrumb": [
       "Inicio","tema-7"],
     "path": "pages/tema-7.html"
